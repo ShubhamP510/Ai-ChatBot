@@ -8,7 +8,7 @@ This is a simple AI ChatBot built using Python. The chatbot interacts with users
 - Text-based conversational chatbot
 - Rule-based response system using Python
 - Easy to extend with your own conversation logic
-- Console-based user interface
+- UI-Based user interface
 
 ## 🛠️ Tech Stack
 
